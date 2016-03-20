@@ -1,0 +1,28 @@
+name: wesleypitts
+favicon: null
+layout_spectrum: 0.7113817373756319
+typography_spectrum: 0.363887787098065
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.886175203602761
+  lightness: 0.734985399292782
+  saturation: 0.029691379750147462
+  rhythmicContrast: 0.3027688888832927
+purpose: []
